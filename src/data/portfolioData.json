@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Project One Title",
+    "description": "A brief description of project one. Explain the purpose and key features.",
+    "imageUrl": "https://images.ctfassets.net/wowgx05xsdrr/5Gy0HRFtGJkW5GapIiCk8N/24a26fae1eac4c7e2b786b7e209c5779/article-thumbnail-person-multi-region-checkout-product-catalog-gradient-sunset-bigcommerce.png?fm=webp&w=3840&q=75",
+    "techStack": ["React", "Node.js", "MongoDB"],
+    "demoLink": "#",
+    "repoLink": "#"
+  },
+  {
+    "id": 2,
+    "title": "Project Two Title",
+    "description": "This project focused on X and Y, utilizing Z technology.",
+    "imageUrl": "https://i.ytimg.com/vi/NljIHlZRTTE/maxresdefault.jpg",
+    "techStack": ["JavaScript", "HTML5", "CSS3", "Express"],
+    "demoLink": "#",
+    "repoLink": "#"
+  },
+  {
+    "id": 3,
+    "title": "Project Three Title",
+    "description": "An exploration of data visualization using D3.js and React.",
+    "imageUrl": "https://www.techeshta.com/wp-content/uploads/2021/08/moviebuff-online-movie-ticket-booking-platform-ui-kit-product-banner.jpg",
+    "techStack": ["React", "D3.js", "Firebase"],
+    "demoLink": "#",
+    "repoLink": null
+  },
+    {
+    "id": 4,
+    "title": "Project Four Title",
+    "description": "Building a RESTful API with Python and Flask.",
+    "imageUrl": "https://nextbigtechnology.com/wp-content/uploads/2021/11/How-To-Develop-A-Bus-Ticket-Booking-Mobile-App-Features-Cost.jpg",
+    "techStack": ["Python", "Flask", "SQL"],
+    "demoLink": null,
+    "repoLink": "#"
+  }
+] 
